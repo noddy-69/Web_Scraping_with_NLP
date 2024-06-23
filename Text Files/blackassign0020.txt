@@ -1,0 +1,213 @@
+How advertisement increase your market value?
+
+
+
+/* custom css */
+.tdb_single_content{
+
+                  margin-bottom: 0;
+
+                  *zoom: 1;
+
+                }.tdb_single_content:before,
+
+                .tdb_single_content:after{
+
+                  display: table;
+
+                  content: '';
+
+                  line-height: 0;
+
+                }.tdb_single_content:after{
+
+                  clear: both;
+
+                }.tdb_single_content .tdb-block-inner > *:not(.wp-block-quote):not(.alignwide):not(.alignfull.wp-block-cover.has-parallax):not(.td-a-ad){
+
+                  margin-left: auto;
+
+                  margin-right: auto;
+
+                }.tdb_single_content a{
+
+                  pointer-events: auto;
+
+                }.tdb_single_content .td-spot-id-top_ad .tdc-placeholder-title:before{
+
+                  content: 'Article Top Ad' !important;
+
+                }.tdb_single_content .td-spot-id-inline_ad0 .tdc-placeholder-title:before{
+
+                  content: 'Article Inline Ad 1' !important;
+
+                }.tdb_single_content .td-spot-id-inline_ad1 .tdc-placeholder-title:before{
+
+                  content: 'Article Inline Ad 2' !important;
+
+                }.tdb_single_content .td-spot-id-inline_ad2 .tdc-placeholder-title:before{
+
+                  content: 'Article Inline Ad 3' !important;
+
+                }.tdb_single_content .td-spot-id-bottom_ad .tdc-placeholder-title:before{
+
+                  content: 'Article Bottom Ad' !important;
+
+                }.tdb_single_content .id_top_ad,
+
+                .tdb_single_content .id_bottom_ad{
+
+                  clear: both;
+
+                  margin-bottom: 21px;
+
+                  text-align: center;
+
+                }.tdb_single_content .id_top_ad img,
+
+                .tdb_single_content .id_bottom_ad img{
+
+                  margin-bottom: 0;
+
+                }.tdb_single_content .id_top_ad .adsbygoogle,
+
+                .tdb_single_content .id_bottom_ad .adsbygoogle{
+
+                  position: relative;
+
+                }.tdb_single_content .id_ad_content-horiz-left,
+
+                .tdb_single_content .id_ad_content-horiz-right,
+
+                .tdb_single_content .id_ad_content-horiz-center{
+
+                  margin-bottom: 15px;
+
+                }.tdb_single_content .id_ad_content-horiz-left img,
+
+                .tdb_single_content .id_ad_content-horiz-right img,
+
+                .tdb_single_content .id_ad_content-horiz-center img{
+
+                  margin-bottom: 0;
+
+                }.tdb_single_content .id_ad_content-horiz-center{
+
+                  text-align: center;
+
+                }.tdb_single_content .id_ad_content-horiz-center img{
+
+                  margin-right: auto;
+
+                  margin-left: auto;
+
+                }.tdb_single_content .id_ad_content-horiz-left{
+
+                  float: left;
+
+                  margin-top: 9px;
+
+                  margin-right: 21px;
+
+                }.tdb_single_content .id_ad_content-horiz-right{
+
+                  float: right;
+
+                  margin-top: 6px;
+
+                  margin-left: 21px;
+
+                }.tdb_single_content .tdc-a-ad .tdc-placeholder-title{
+
+                  width: 300px;
+
+                  height: 250px;
+
+                }.tdb_single_content .tdc-a-ad .tdc-placeholder-title:before{
+
+                  position: absolute;
+
+                  top: 50%;
+
+                  -webkit-transform: translateY(-50%);
+
+                  transform: translateY(-50%);
+
+                  margin: auto;
+
+                  display: table;
+
+                  width: 100%;
+
+                }.tdb_single_content .tdb-block-inner.td-fix-index{
+
+                    word-break: break-word;
+
+                }@media (max-width: 767px) {
+
+                  .tdb_single_content .id_ad_content-horiz-left,
+
+                  .tdb_single_content .id_ad_content-horiz-right,
+
+                  .tdb_single_content .id_ad_content-horiz-center {
+
+                    margin: 0 auto 26px auto;
+
+                  }
+
+                }@media (max-width: 767px) {
+
+                  .tdb_single_content .id_ad_content-horiz-left {
+
+                    margin-right: 0;
+
+                  }
+
+                }@media (max-width: 767px) {
+
+                  .tdb_single_content .id_ad_content-horiz-right {
+
+                    margin-left: 0;
+
+                  }
+
+                }@media (max-width: 767px) {
+
+                  .tdb_single_content .td-a-ad {
+
+                    float: none;
+
+                    text-align: center;
+
+                  }
+
+                  .tdb_single_content .td-a-ad img {
+
+                    margin-right: auto;
+
+                    margin-left: auto;
+
+                  }
+
+                  .tdb_single_content .tdc-a-ad {
+
+                    float: none;
+
+                  }
+
+                }
+
+
+Advertising allows companies to differentiate themselves and highlight their unique selling points.
+ According to research, the advertisement can increase the market value. Not only offline advertisement, but the world is also going through “Digital advertising” through “social media and many other media’’. With the help of advertising, most people are becoming famous and getting success in their companies.
+
+
+ Advertisements can help the company to grow successfully and potentially. For small to big companies advertisement is the only weapon to change the company’s faith and bring success to the company. Nowadays most of them are using digital media for their advertisement and they’re attracting people to their products. It is a flat form for the people to know what product that they launch by the company, and most of them are using social media like “youtube, Facebook, Twitter Now recently Instagram also sponsoring the advertisements while scrolling through the app”. while coming to “nondigital advertising means firstly it will be the Radio, later pamphlets, and newspaper advertisements, announcing through the mike and roaming on the road”, With these the advertisement can help in growing the market value.
+ According to research advertisement can helps increases the market value. A recent study that advertisement will only be the “strongest weapon to the change the market value”. Not only does the advertisement increase the market’s value, it sometimes depends upon the product. with the help of this, it will increase the market value of the company and increases the share value of the company.  Most companies are spending crores and lakhs on their advertisement for increasing the market value and their company value.
+     Presently the following days “celebrities are sponsoring the product and it is a key to the company to increase the market value of the company”. By sponsoring the about their fans buying that product and increasing the market value of the company.  Mostly the main reason for increasing the market value is to show up their product’s specialty and the importance of the product.
+    By giving advertisements some of them believe it is a brand that can now beat the product. And most people think that and buy that product and this is the one type of way that increases the market value of the product. Some of them trust their product and buy their product, and increase the market value.
+Nowadays advertising is largely expanded through the public area, the internet websites, etc …By advertising, you can know what the product is launched and what is the specialty of their product, after research, the product will be sold in the market with their values and it will help in increase the market value.
+
+ From the above data, we can see how many ways that increase the market value. And so many ways that advertisement is only the way that increases the market value. Not only non-digital media even in the events they’re giving the pamphlets and increasing their market values. And some of them observe that the company’s interaction with the people can also increase the market value of the company. And many of them observe that the quality of their product also increase the market value
+Blackcoffer Insights 45: D.V.M.S.VIGNESH, GMR INSTITUE OF TECHONOLOGY
+
